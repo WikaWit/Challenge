@@ -1,0 +1,15 @@
+/Users/wika/Challenge/scr/Challengeapp/bin/Debug/net6.0/Challengeapp
+/Users/wika/Challenge/scr/Challengeapp/bin/Debug/net6.0/Challengeapp.deps.json
+/Users/wika/Challenge/scr/Challengeapp/bin/Debug/net6.0/Challengeapp.runtimeconfig.json
+/Users/wika/Challenge/scr/Challengeapp/bin/Debug/net6.0/Challengeapp.dll
+/Users/wika/Challenge/scr/Challengeapp/bin/Debug/net6.0/ref/Challengeapp.dll
+/Users/wika/Challenge/scr/Challengeapp/bin/Debug/net6.0/Challengeapp.pdb
+/Users/wika/Challenge/scr/Challengeapp/obj/Debug/net6.0/Challengeapp.csproj.AssemblyReference.cache
+/Users/wika/Challenge/scr/Challengeapp/obj/Debug/net6.0/Challengeapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wika/Challenge/scr/Challengeapp/obj/Debug/net6.0/Challengeapp.AssemblyInfoInputs.cache
+/Users/wika/Challenge/scr/Challengeapp/obj/Debug/net6.0/Challengeapp.AssemblyInfo.cs
+/Users/wika/Challenge/scr/Challengeapp/obj/Debug/net6.0/Challengeapp.csproj.CoreCompileInputs.cache
+/Users/wika/Challenge/scr/Challengeapp/obj/Debug/net6.0/Challengeapp.dll
+/Users/wika/Challenge/scr/Challengeapp/obj/Debug/net6.0/ref/Challengeapp.dll
+/Users/wika/Challenge/scr/Challengeapp/obj/Debug/net6.0/Challengeapp.pdb
+/Users/wika/Challenge/scr/Challengeapp/obj/Debug/net6.0/Challengeapp.genruntimeconfig.cache
